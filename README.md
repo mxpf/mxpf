@@ -8,16 +8,16 @@ This GitHub is the workshop side of that practice. Some projects become tools an
 
 ### Tools and systems
 
-- **Thinkinghaus** — the publishing system behind [thinking.haus](https://thinking.haus), built around an AI-assisted writing practice.
-- **Make Placid** — a reusable publishing system for visual, project-based work and the foundation for [maxpfennig.haus](https://maxpfennig.haus).
-- **Write Placid** — the editorial counterpart to Make Placid, designed for writing-first publishing and used as the foundation for Thinking House.
-- **Trackinghaus** — self-hosted, privacy-minded analytics that turns aggregate reading data into one useful weekly observation.
-- **kDrive Connector** — a connector for accessing kDrive from compatible tools and workflows.
+- **[Thinkinghaus](https://github.com/mxpf/thinkinghaus)** — the publishing system behind [thinking.haus](https://thinking.haus), built around an AI-assisted writing practice.
+- **[Make Placid](https://github.com/mxpf/make-placid-portfolio)** — a reusable publishing system for visual, project-based work and the foundation for [maxpfennig.haus](https://maxpfennig.haus).
+- **[Write Placid](https://github.com/mxpf/write-placid)** — the editorial counterpart to Make Placid, designed for writing-first publishing and used as the foundation for Thinking House.
+- **[Trackinghaus](https://github.com/mxpf/trackinghaus)** — self-hosted, privacy-minded analytics that turns aggregate reading data into one useful weekly observation.
+- **[kDrive Connector](https://github.com/mxpf/kdrive-connector)** — a connector for accessing kDrive from compatible tools and workflows.
 
 ### Prototypes and studies
 
-- **Personal Reading Archive** — a mobile-first prototype for capturing, correcting, organizing, and reading a personal print library.
+- **[Personal Reading Archive](https://github.com/mxpf/print-archive-reader)** — a mobile-first prototype for capturing, correcting, organizing, and reading a personal print library.
 
-I also keep smaller visual experiments here, including **Flow Field Dashes** and **Tiny House Generator**—generative systems for staying close to visual play.
+I also keep smaller visual experiments here, including **[Flow Field Dashes](https://github.com/mxpf/flow-field-dashes)** and **[Tiny House Generator](https://github.com/mxpf/tiny-house-generator)**—generative systems for staying close to visual play.
 
 [Portfolio](https://maxpfennig.haus) · [Writing](https://thinking.haus)
